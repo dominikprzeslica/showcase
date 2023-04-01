@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(255, 247, 175);
+}
+
+.heading {
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(94, 84, 58);
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    color: rgb(177, 151, 119);
+    font-size: 25px;
+    margin: 15px;
+}
+
+footer {
+    
+    text-align: center;
+}
